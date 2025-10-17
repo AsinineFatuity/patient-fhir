@@ -4,14 +4,14 @@
         {
             "use": "official",
             "given": ["Oywa"],
-            "family": ["Goro"],
-            "prefix": ["Mr."],
+            "family": "Goro",
+            "prefix": ["Mr.", "Dr."],
             "suffix": ["PhD"],
             "period": {
                 "start": "1990-01-01",
                 "end": "2025-10-17"
             },
-            "text": ["Oywa Goro"]
+            "text": "Oywa Goro"
         }
     ],
     "gender": "male",
