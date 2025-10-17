@@ -1,0 +1,19 @@
+{
+    "resourceType": "Patient",
+    "name": [
+        {
+            "use": "official",
+            "given": ["Oywa"],
+            "family": ["Goro"],
+            "prefix": ["Mr."],
+            "suffix": ["PhD"],
+            "period": {
+                "start": "1990-01-01",
+                "end": "2025-10-17"
+            },
+            "text": ["Oywa Goro"]
+        }
+    ],
+    "gender": "male",
+    "birthDate": "1990-01-01"
+}
